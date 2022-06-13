@@ -1,0 +1,39 @@
+<!DOCTYPE>
+<html lang="en-us">
+
+<head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Nuclear Energy</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="script.js"></script>
+	<link rel="shortcut icon" href="tab.jpg" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="tab.jpg">
+</head>
+
+<body>
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="/">Home</a>
+  <a href="fvf.php">Fission vs Fusion</a>
+  <a href="why.php">Why do we need nuclear?</a>
+  <a href="sources.php">Sources</a>
+</div>
+<span onclick="openNav()" style=" font-size: 50px;
+">≡</span>
+
+  <h1 style="text-align: center;">Sources</h1>
+  <ul>
+    <li><a href="https://www.livescience.com/fission-vs-fusion.html" target="blank">https://www.livescience.com/fission-vs-fusion.html</a></li>
+    <li><a href="https://www.ansys.com/blog/designing-nuclear-fusion-reactors-simulation" target="blank">https://www.ansys.com/blog/designing-nuclear-fusion-reactors-simulation</a></li>
+    <li><a href="https://www.britannica.com/event/Chernobyl-disaster" target="blank">https://www.britannica.com/event/Chernobyl-disaster</a></li>
+    <li><a href="https://fossilfuel.com/how-fossil-fuels-are-used-to-generate-electricity/" target="blank">https://fossilfuel.com/how-fossil-fuels-are-used-to-generate-electricity</a></li>
+    <li><a href="https://ourworldindata.org/fossil-fuels" target="blank">https://ourworldindata.org/fossil-fuels</a></li>
+    <li><a href="https://worldpopulationreview.com/country-rankings/most-environmentally-friendly-countries" target="blank">https://worldpopulationreview.com/country-rankings/most-environmentally-friendly-countries</a></li>
+    <li><a href="https://www.aboutamazon.com/planet/climate-pledge" target="blank">https://www.aboutamazon.com/planet/climate-pledge</a></li>
+    <li><a href="https://www.apple.com/newsroom/2020/07/apple-commits-to-be-100-percent-carbon-neutral-for-its-supply-chain-and-products-by-2030/" target="blank">https://www.apple.com/newsroom/2020/07/apple-commits-to-be-100-percent-carbon-neutral-for-its-supply-chain-and-products-by-2030</a></li>
+    <li><a href="https://www.apple.com/newsroom/2022/04/apple-expands-the-use-of-recycled-materials-across-its-products/" target="blank">https://www.apple.com/newsroom/2022/04/apple-expands-the-use-of-recycled-materials-across-its-products</a></li>
+    <li><a href="https://www.theverge.com/2021/9/23/22626723/eu-commission-universal-charger-usb-c-micro-lightning-connector-smartphones" target="blank">https://www.theverge.com/2021/9/23/22626723/eu-commission-universal-charger-usb-c-micro-lightning-connector-smartphones</a></li>
+  </ul>
+</body>
+</html>

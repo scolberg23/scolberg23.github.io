@@ -15,9 +15,9 @@
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="/">Home</a>
-  <a href="fvf.php">Fission vs Fusion</a>
-  <a href="why.php">Why do we need nuclear?</a>
-  <a href="sources.php">Sources</a>
+  <a href="fvf.html">Fission vs Fusion</a>
+  <a href="why.html">Why do we need nuclear?</a>
+  <a href="sources.html">Sources</a>
 </div>
 <span onclick="openNav()" style=" font-size: 50px;
 ">≡</span>
